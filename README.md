@@ -1,7 +1,11 @@
+<div align="center">
+
 # 👋 Hi, I'm Dharmik Vaghasia!
 
+</div>
 
----
+
+
 
 - 🔭 I’m currently working on **ReactJS**, **NodeJS**, **NextJS**.
 - 🌱 I’m learning **SEO** and **Google Arbitrage**.
