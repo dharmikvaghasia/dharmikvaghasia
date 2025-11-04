@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Dharmik Vaghasia!
 
-### A passionate Full Stack Developer  from India
 
 ---
 
-- 🔭 I’m currently working on **ReactJS**, **NodeJS**, **NextJS** and **Gatsby**.
-- 🌱 I’m learning **React Native** and **AWS**.
+- 🔭 I’m currently working on **ReactJS**, **NodeJS**, **NextJS**.
+- 🌱 I’m learning **Android** and **Google Arbitrage**.
 - 💬 Ask me about **React**, **NodeJS**, **JavaScript**.
-- 📫 How to reach me: [Your Email] or [Your Website](https://yourwebsite.com).
+- 📫 How to reach me: dharmikvaghasiya13@gmail.com.
 - ⚡ Fun fact: [Add something unique or personal about you].
 
 ---
