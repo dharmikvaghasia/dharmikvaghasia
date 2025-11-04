@@ -1,6 +1,6 @@
 <div align="center" >
 
-# 👋 Hi, I'm Dharmik Vaghasia!
+# Hi 👋, I'm Dharmik Vaghasia
 </div>
 <br>
 
